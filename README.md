@@ -1,35 +1,58 @@
-# Benevity - Charitable donation and grant management platform
+# <ins> Benevity - Improve your corporate giving </ins>
+
+![Images](Images\Benevity_Logo.jpg)
 
 ## Overview and Origin
 
 * Name of company
 
-    Benevity
+    The name of company is Benevity. They are market leader in charitable donation and grant management platform. 
 
 * When was the company incorporated?
 
-    The company was incorporated in 2008
+    The company was incorporated in 2008.
+
+    [Source - Benevitywiki](https://en.wikipedia.org/wiki/Benevity#cite_note-HeraldMeaning-5)
 
 * Who are the founders of the company?
 
-    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company.
+    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business was with iStockphoto, a successful venture that was eventually sold to Getty Images.
+
+    [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 
 * How did the idea for the company (or project) come about?
 
-    Startled by the fact less than five per cent of donations in a $350-billion industry were from corporations and less than seven per cent were processed online, de Lottinville set out to improve those numbers.
+    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and less than seven per cent were processed online, he decided to improve those numbers. With his experience in previous venture, specifically in web based technologies, he had the vision what needs to be done to change grant management environment. 
+
+    [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 
 * How is the company funded? How much funding have they received?
 
     Overall, Benevity recieved $ 69.2 USD million over three series of round. Most of the funding is from JMI Equity and General Atlantic. 
+
+    Funding details:
+
+    Date | Transaction Name | Money raised | Lead Investor
+    ------------ | -------------| -------------| -------------| 
+    Oct 22, 2019	| Series C | $ 40 M | Not available
+    Oct 22, 2019	| Series C |  N/A | General Atlantic
+    Oct 22, 2019	| Series C | $ CAD 38 M | JMI Equity
+
+    [Source - Crunchbase](https://www.crunchbase.com/organization/benevity/funding_financials)
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
-    
+    Back in 2008, The company founder Bryan  was shocked by the fact that less than five per cent of donations in a $350-billion industry were from corporations and less than seven per cent were processed online, he decided to improve those numbers. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+
+    https://www.marketsandmarkets.com/Market-Reports/grant-management-software-market-42804168.html
+
+
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
