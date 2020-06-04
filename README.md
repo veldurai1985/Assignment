@@ -14,13 +14,13 @@
 
 * Who are the founders of the company?
 
-    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business was with iStockphoto, a successful venture that was eventually sold to Getty Images.
+    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business with iStockphoto, a successful venture that was eventually sold to Getty Images.
 
     [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 
 * How did the idea for the company (or project) come about?
 
-    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and less than seven per cent were processed online, he decided to improve those numbers. With his experience in previous venture, specifically in web based technologies, he had the vision what needs to be done to change grant management environment. 
+    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and **less than seven per cent were processed online**, he decided to improve those numbers. With his experience in previous venture, specifically in web based technologies, he had the vision what needs to be done to change grant management environment. 
 
     [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 
@@ -36,7 +36,7 @@
     Oct 22, 2019	| Series C |  N/A | General Atlantic
     Oct 22, 2019	| Series C | $ CAD 38 M | JMI Equity
 
-    [Source - Crunchbase](https://www.crunchbase.com/organization/benevity/funding_financials)
+    [Source - Crunchbase Financials](https://www.crunchbase.com/organization/benevity/funding_financials)
 
 
 ## Business Activities:
@@ -54,21 +54,38 @@
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
+    Intendend customers are the corporations. In most cases, It is not economical for these corporations to develop a complete grant management platform. Instead, they will purchase these platform as software-as-a-solution (SaaS) for a low fee and integrated with their systems. 
+
     According to MarketsandMarkets research, Global grant management software market size will grow from USD 1.1 billion in 2019 to USD 1.9 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 10.5% during the forecast period. Growing need among enterprises to improve the grant process and acceleration of grant application review is expected to drive the growth of the grant management software market across various end users globally.
 
     [Source - Markets&Markets](https://www.marketsandmarkets.com/Market-Reports/grant-management-software-market-42804168.html)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    
+    In the initial days, Benevity was a market leader in workplace giving and volunteer management software. They acquired GrantStream in 2015 who is long-recognized leader in grants management software. They also acquired Versaic and Trust CSR Ltd in 2018 and able to offer entire corporate goodness program under one umberlla. 
+
+    [Source - GrandStream](https://www.benevity.com/press-releases/benevity-acquires-grantstream-offering-single-integrated-solution-that-delivers-greater-engagement-and-impact)
+
+    [Source - Crunchbase](https://www.crunchbase.com/organization/benevity#section-overview)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+    Benevity product is called 'Spark' which meets WCAG 2.0 AA standards. One of the key advantage of that product is that it can integrate with Workday, HR platform. Spark is offered as Software-as-a-Solution (SaaS) and Spark API (Goodness API) can support e-commerce integrations, loyalty rewards programs and transactional interfaces. 
+
+    [Source Benevity Technology](https://www.benevity.com/#:~:text=The%20Benevity%20Goodness%20Platform%20helps,power%20pro%2Dsocial%20brand%20engagement.)
+
+    [Source - WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
+    Benevity comes under the broder domain of HR, payroll and benefits. It helps the organization in grants management, voluntering, donation etc., 
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
+
 
 ## Results
 
