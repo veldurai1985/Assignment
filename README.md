@@ -1,6 +1,6 @@
-# <ins> Benevity - Improve your corporate giving </ins>
+# Benevity - Improve your corporate giving
 
-![Images](Images\Benevity_Logo.jpg)
+![Images](Images/Benevity_Logo.jpg)
 
 ## Overview and Origin
 
@@ -28,7 +28,7 @@
 
 * How is the company funded? How much funding have they received?
 
-    Overall, Benevity recieved $ 69.2 USD million over three series of round. Most of the funding is from JMI Equity and General Atlantic. 
+    Overall, Benevity recieved **$ 69.2 USD million** over three series of round. Most of the funding is from JMI Equity and General Atlantic. 
 
     Funding details:
 
