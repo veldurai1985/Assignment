@@ -12,8 +12,6 @@
 
     The company was incorporated in 2008.
 
-    [Source - Benevitywiki](https://en.wikipedia.org/wiki/Benevity#cite_note-HeraldMeaning-5)
-
 * Who are the founders of the company?
 
     The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business was with iStockphoto, a successful venture that was eventually sold to Getty Images.
@@ -34,7 +32,7 @@
 
     Date | Transaction Name | Money raised | Lead Investor
     ------------ | -------------| -------------| -------------| 
-    Oct 22, 2019	| Series C | $ 40 M | Not available
+    Oct 22, 2019	| Series C | $ 40 M | N/A
     Oct 22, 2019	| Series C |  N/A | General Atlantic
     Oct 22, 2019	| Series C | $ CAD 38 M | JMI Equity
 
@@ -45,14 +43,20 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-    Back in 2008, The company founder Bryan  was shocked by the fact that less than five per cent of donations in a $350-billion industry were from corporations and less than seven per cent were processed online, he decided to improve those numbers. 
+    Benevity supports corporation goodness program. It gives the corporation access to workplace giving, matching, volunteering, disaster relief and corporate granting.
+    In specific, It is using technology to enable a better workplace giving programs that improve employee engagement, recruitment and retention and can be used to enrich a more positive culture. It is creating a more efficient way to support more charities, so charities can focus on their important social missions. 
+
+    Apart from that Benevity is a Certified B corporation. As a certified B corporation, Benevity needs to balance purpose and profit. They are legally required to consider the impact of their decisions on their workers, customers, suppliers, community, and the environment.
+
+    [Source - Benevity](https://www.benevity.com/why-benevity)
+
+    [Source - BCorp](https://bcorporation.net/)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
+    According to MarketsandMarkets research, Global grant management software market size will grow from USD 1.1 billion in 2019 to USD 1.9 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 10.5% during the forecast period. Growing need among enterprises to improve the grant process and acceleration of grant application review is expected to drive the growth of the grant management software market across various end users globally.
 
-    https://www.marketsandmarkets.com/Market-Reports/grant-management-software-market-42804168.html
-
-
+    [Source - Markets&Markets](https://www.marketsandmarkets.com/Market-Reports/grant-management-software-market-42804168.html)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
