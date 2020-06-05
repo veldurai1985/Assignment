@@ -73,7 +73,6 @@
     Benevity product is called 'Spark' which meets WCAG 2.0 AA standards. One of the key advantage of that product is that it can integrate with Workday, HR platform. Spark is offered as Software-as-a-Solution (SaaS) and Spark API (Goodness API) can support e-commerce integrations, loyalty rewards programs and transactional interfaces. 
 
     [Source Benevity Technology](https://www.benevity.com/#:~:text=The%20Benevity%20Goodness%20Platform%20helps,power%20pro%2Dsocial%20brand%20engagement.)
-
     [Source - WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 ## Landscape:
