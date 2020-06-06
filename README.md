@@ -102,24 +102,36 @@
 
     > **“Without a sense of purpose, no company, either public or private, can achieve its full potential"**  - Larry Fink, CEO of Blackrock 
 
-    One of the huge shifts in the corporation is the preference of the employees to work for a companies to work for companies that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second career goal. 
+    One of the huge shifts in the corporation is the preference of the employees to work for a companies that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second on the list of career goal. 
 
-    Benevity is the first certified B Corps in Canada. The company has over 2 million users around the world and it processed over 2 billion dollars in donation and 10 million hours of volunteering time to 150,000 charities. Apart from that it holds almost 2 million charities and platform is available in 17 languages. 
+    It is important to note that Benevity is the first certified B Corps in Canada. The company has over 2 million users around the world and it processed over 2 billion dollars in donation and 10 million hours of volunteering time to 150,000 charities. Apart from that it holds almost 2 million charities and platform is available in 17 languages. 
     
     * [Source - Forbes](https://www.forbes.com/sites/afdhelaziz/2018/07/02/how-benevity-is-unleashing-employee-purpose-as-a-competitive-advantage/#7c7a54a64c2f)
 ---
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+
+
 * How is your company performing relative to competitors in the same domain?
+
+    Benevity is a relatively a niche player compared other major player such as Blackbaud. Benevity focus on corporate giving program and they are able to expand the prodcuct offering by strategic acquistion (GrantStream in 2015) and organic internal development. 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+    Benvity soley focus on corporate giving platforms. Benevity can expand to other areas of grant management such as Government, Art & Culture, Research funding, Healthcare and Scholarship providers. Though, Benevity platform has millions of charities, it is viewed from corporation prespective not the other way around. They can leverage these platforms to act as a bridge between corporation and non-profits. 
+
+    In fact, Benevity created Benevity one wold in 2016 that will allow coroporation to give donation for an internation disaster. In 2018, Benevity one platform processed closed to $ 800k donation. 
+--- 
 * Why do you think that offering this product or service would benefit the company?
 
+    Benevity will have a much broder ecosystem for the grant management. It also provides more options for the corportation to fund some of these instituion. 
+
 * What technologies would this additional product or service utilize?
+
+
 
 * Why are these technologies appropriate for your solution?
 
