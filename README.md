@@ -20,7 +20,7 @@
 ---
 * How did the idea for the company (or project) come about?
 
-    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and **less than seven per cent were processed online**, he decided to improve those numbers. With his experience in previous venture, specifically in web based technologies, he had the vision what needs to be done to change grant management ecosystem. 
+    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and **less than seven per cent were processed online**, he decided to improve those numbers. With his experience in previous venture, specifically in web-based technologies, he had the vision what needs to be done to change grant management ecosystem. 
 
     * [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 ---
@@ -32,9 +32,9 @@
 
     Date | Transaction Name | Money raised | Lead Investor
     ------------ | -------------| -------------| -------------| 
-    Oct 22, 2019	| Series C | $ 40 M | N/A
-    Oct 22, 2019	| Series C |  N/A | General Atlantic
-    Oct 22, 2019	| Series C | $ CAD 38 M | JMI Equity
+    Oct 22, 2019    | Series C | $ 40 M | N/A
+    Oct 22, 2019    | Series C |  N/A | General Atlantic
+    Oct 22, 2019    | Series C | $ CAD 38 M | JMI Equity
 
     * [Source - Crunchbase Financials](https://www.crunchbase.com/organization/benevity/funding_financials)
 ---
@@ -51,7 +51,7 @@
 ---
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-    Intendend customers are the corporations. In most cases, It is not economical for these corporations to develop a complete grant management platform. Instead, they will purchase these platform as software-as-a-solution (SaaS) for a low fee and integrated with their systems. 
+    Intendend customers are the corporations. In most cases, it is not economical for these corporations to develop a complete grant management platform. Instead, they will purchase these platforms as software-as-a-solution (SaaS) for a low fee and integrated with their systems. 
 
     According to MarketsandMarkets research, Global grant management software market size will grow from USD 1.1 billion in 2019 to USD 1.9 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 10.5% during the forecast period. Growing need among enterprises to improve the grant process and acceleration of grant application review is expected to drive the growth of the grant management software market across various end users globally.
 
@@ -66,7 +66,7 @@
 ---
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-    Benevity product is called ***Spark*** and it is offered as Software-as-a-Solution (SaaS) and Spark API (Goodness API) can support e-commerce integrations, loyalty rewards programs and transactional interfaces. Also, it meets WCAG 2.0 AA standards and integrates with Workday, HR management platform. 
+    Benevity product is called ***Spark*** and it is offered as Software-as-a-Solution (SaaS). Spark API (Goodness API) can support e-commerce integrations, loyalty rewards programs and transactional interfaces. Also, it meets WCAG 2.0 AA standards and integrates with Workday, HR management platform. 
 
     * [Source Benevity Technology](https://www.benevity.com/#:~:text=The%20Benevity%20Goodness%20Platform%20helps,power%20pro%2Dsocial%20brand%20engagement.)
     * [Source - WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -79,8 +79,12 @@
 ---
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-
-
+    1. Transition from off the shelf product to cloud based product
+    2. Increase in use of electronic payments to process the donation, grants and payments. 
+    3. Built-in reporting platform to manage and analyze user engagement and other metrics
+    4. Ease of integration with the systems 
+    5. Ease of use from users prespective
+---
 * What are the other major companies in this domain?
 
     1. Smart simple 
@@ -88,13 +92,22 @@
     3. JK Group 
     4. Sponsorium 
 
-    All of the companies listed, Blackbaud is a major player in this segment and listed in NASDAQ exchange. Blackbaud also acquired MicroEdge for $160 Million in 2014. Microedge is one of the local competitor for Benevity. 
+    Of all of the companies mentioned, Blackbaud is a major player in this segment. It is listed in NASDAQ exchange. Back in 2014, Blackbaud  acquired MicroEdge for $160. Microedge is one of the local competitors for Benevity. 
 
     * [Source - Competitors](https://www.businesswire.com/news/home/20140902005729/en/Blackbaud-Acquire-MicroEdge)
 ---
 ## Results
 
 * What has been the business impact of this company so far?
+
+    > **“Without a sense of purpose, no company, either public or private, can achieve its full potential"**  - Larry Fink, CEO of Blackrock 
+
+    One of the huge shifts in the corporation is the preference of the employees to work for a companies to work for companies that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second career goal. 
+
+    Benevity is the first certified B Corps in Canada. The company has over 2 million users around the world and it processed over 2 billion dollars in donation and 10 million hours of volunteering time to 150,000 charities. Apart from that it holds almost 2 million charities and platform is available in 17 languages. 
+    
+    * [Source - Forbes](https://www.forbes.com/sites/afdhelaziz/2018/07/02/how-benevity-is-unleashing-employee-purpose-as-a-competitive-advantage/#7c7a54a64c2f)
+---
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -138,7 +151,7 @@ For an overview of some of the most successful companies across FinTech domains,
 
 * [Canadian Fintech Industry Set to Witness Strong Grow: Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
 
-* [Introducing The FinTech Landscape In Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
+* [Introducing the FinTech Landscape in Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
 
 * [Status of the Canadian FinTech Landscape](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
 
@@ -186,7 +199,7 @@ As you research your company, you may find these types resources to be useful:
 
 * [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
 
-* [Stackshare](https://stackshare.io/)
+* [Stack share](https://stackshare.io/)
 
 * [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
 
@@ -204,3 +217,5 @@ As you research your company, you may find these types resources to be useful:
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
