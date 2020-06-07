@@ -20,13 +20,13 @@
 ---
 * How did the idea for the company (or project) come about?
 
-    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and **less than seven per cent were processed online**, he decided to improve those numbers. With his experience in previous venture, specifically in web-based technologies, he had the vision what needs to be done to change grant management ecosystem. 
+    Back in 2008, The company founder Bryan  was shocked by the fact that less than **five per cent of donations in a $350-billion industry** were from corporations and **less than seven per cent were processed online**, he decided to improve those numbers. With his experience, specifically in web-based technologies, he had a clear vision what needs to be done to change grant management ecosystem. 
 
     * [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 ---
 * How is the company funded? How much funding have they received?
 
-    Overall, Benevity recieved **$ 69.2 USD million** over three series of round. Most of the funding is from JMI Equity and General Atlantic. 
+    Overall, Benevity received **$ 69.2 USD million** over three series of round. Most of the funding is from JMI Equity and General Atlantic. 
 
     Funding details:
 
@@ -42,7 +42,7 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-    Benevity supports corporation goodness program and it helps organization in workplace giving, matching, volunteering, disaster relief and corporate granting. It is using technology to enable a better workplace giving programs that improve employee engagement, recruitment and retention and can be used to enrich a more positive culture. It is also creating a more efficient way to support more charities, so charities can focus on their important social missions. 
+    Benevity supports corporation goodness program and it helps organization in workplace giving, matching, volunteering, disaster relief and corporate granting. It is using technology to enable a better workplace giving programs that improve employee engagement, recruitment and retention. It is also creating a more efficient way to support more charities, so charities can focus on their important social missions. 
 
     Apart from that Benevity is a Certified B corporation. As a certified B corporation, Benevity needs to balance purpose and profit. They are legally required to consider the impact of their decisions on their workers, customers, suppliers, community, and the environment.
 
@@ -51,15 +51,19 @@
 ---
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-    Intendend customers are the corporations. In most cases, it is not economical for these corporations to develop a complete grant management platform. Instead, they will purchase these platforms as software-as-a-solution (SaaS) for a low fee and integrated with their systems. 
+    Intended customers are the corporations. In most cases, it is not economical for these corporations to develop a complete grant management platform. Instead, they will purchase these platforms and integrated with their systems. 
 
-    According to MarketsandMarkets research, Global grant management software market size will grow from USD 1.1 billion in 2019 to USD 1.9 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 10.5% during the forecast period. Growing need among enterprises to improve the grant process and acceleration of grant application review is expected to drive the growth of the grant management software market across various end users globally.
+    According to research, Grant management software market will grow from USD 1.1 billion in 2019 to USD 1.9 billion by 2024. i.e. The market will grow at an annual rate of 10.5 % for the next five years. Apart from that growing need among corporations to improve the grant management process is expected to drive the growth of the grant management software market globally.
 
     * [Source - Markets&Markets](https://www.marketsandmarkets.com/Market-Reports/grant-management-software-market-42804168.html)
 ---
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     
-    In the initial days, Benevity was a market leader in workplace giving and volunteer management software. They acquired GrantStream in 2015 who is long-recognized leader in grants management software. They also acquired Versaic and Trust CSR Ltd in 2018 and able to offer entire corporate goodness program under one umberlla. 
+    In the initial days, Benevity was a market leader in workplace giving and volunteer management software. They acquired GrantStream in 2015 who is long-recognized leader in grants management software. They also acquired Versaic and Trust CSR Ltd in 2018. 
+
+    By strategic acquisition and improving their existing platform, Benevity is able to provide entire corporate goodness program under one umbrella. 
+    
+    Apart from that, Benevity offers close to 600 configurations so that it can be customized based on corporation needs. 
 
     * [Source - GrandStream](https://www.benevity.com/press-releases/benevity-acquires-grantstream-offering-single-integrated-solution-that-delivers-greater-engagement-and-impact)
     * [Source - Crunchbase](https://www.crunchbase.com/organization/benevity#section-overview)
@@ -75,7 +79,7 @@
 
 * What domain of the financial industry is the company in?
 
-    Benevity comes under the broder domain of HR, payroll and benefits. It helps the organization in workplace giving, matching, volunteering, disaster relief and corporate granting etc., 
+    Benevity comes under the broader domain of HR, payroll and benefits. It helps the organization in workplace giving, matching, volunteering, disaster relief and corporate granting etc., 
 ---
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -83,7 +87,7 @@
     2. Increase in use of electronic payments to process the donation, grants and payments. 
     3. Built-in reporting platform to manage and analyze user engagement and other metrics
     4. Ease of integration with the systems 
-    5. Ease of use from users prespective
+    5. Ease of use from user’s perspective
 ---
 * What are the other major companies in this domain?
 
@@ -102,7 +106,7 @@
 
     > **“Without a sense of purpose, no company, either public or private, can achieve its full potential"**  - Larry Fink, CEO of Blackrock 
 
-    One of the huge shifts in the corporation is the preference of the employees to work for a companies that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second on the list of career goal. 
+    One of the huge shifts in the corporation is the preference of the employees to work for a company that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second on the list of career goal. 
 
     It is important to note that Benevity is the first certified B Corps in Canada. The company has over 2 million users around the world and it processed over 2 billion dollars in donation and 10 million hours of volunteering time to 150,000 charities. Apart from that it holds almost 2 million charities and platform is available in 17 languages. 
     
@@ -111,131 +115,39 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-    The core metics for grant management platforms are employee participation rate, user engagement or ease of use of the product, grant or donation collected for each campaign.
+    The core metrics for grant management platforms are employee participation rate, user engagement or ease of use of the product, grant or donation collected for each campaign.
 
-    In all those metrics, Benevity is doing well. For example - When Splunk implemented Benevity product Spark, The particaipation rate of the employees was doubled. Similar story echoed for other companies too.  
+    In all those metrics, Benevity is doing well. For example - When Splunk implemented Benevity product Spark, the participation rate of the employees was doubled. Similar story was repeated for other Benevity's customers.  
 
     * [Source - Splunk](https://insights.benevity.com/case-studies/how-paypal-engaged-more-employees-worldwide)
-
+---
 * How is your company performing relative to competitors in the same domain?
 
-    Benevity is a a niche player compared other major player such as Blackbaud. Benevity focus on corporate giving program and they are able to offer entire the grant pratform by strategic acquistion (GrantStream in 2015) and organic internal development. They are considered as one of the major players in corporate giving platform. 
+    Benevity is a niche player compared other major players such as Blackbaud. Benevity focus on corporate giving program and they are able to offer entire the grant platform by strategic acquisition (GrantStream in 2015) and organic internal development.  
 
+    In 2016, Benevity received Fast 50 and Fast 500 awards from Deloitte. It ranked 3rd in Canada and 22nd in North America. It grew around 6000 percent from 2012 to 2015.
+
+    * [Source - Deloitte Fast50](https://www.benevity.com/press-releases/benevity-inc-ranks-3rd-on-deloittes-technology-fast-50-and-22nd-on-fast-500-companies-lists#:~:text=Calgary%2C%20AB%20%E2%80%93%20November%2016%2C,dedicated%20leadership%20and%20strong%20growth.)
+---
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-    Benvity soley focus on corporate giving platforms. Benevity can expand to other areas of grant management such as Government, Art & Culture, Research funding, Healthcare and Scholarship providers. Though, Benevity platform has millions of charities, it is viewed from corporation prespective not the other way around. They can leverage these platforms to act as a bridge between corporation and non-profits. 
+    Benevity solely focus on corporate giving platforms. Benevity can expand to other areas of grant management such as Government, Art & Culture, Research funding, Healthcare and Scholarship providers. Though, Benevity platform has millions of charities, it is viewed from corporation perspective not the other way around. They can leverage these platforms to act as a bridge between corporation and non-profits. 
 
-    In fact, Benevity created Benevity one wold in 2016 that will allow coroporation to give donation for an internation disaster. In 2018, Benevity one platform processed closed to $ 800k donation. 
+    In fact, Benevity created Benevity one world in 2016 that will allow corporation to give donation for an international disaster. In 2018, Benevity one platform processed closed to $ 800k donation. 
 
     * [Source - Benevity One World](https://www.benevity.com/press-releases/benevity-launches-oneworld-the-only-complete-international-giving-and-volunteering-solution)
 --- 
 * Why do you think that offering this product or service would benefit the company?
 
-    Benevity will have a much broder ecosystem for the grant management. It will increase their bottomline without spending a lot of money on the development. Primarly because spark product already have all the functionlities and Benevity needs to add few more funtionalities. Also, It will benefit both corporations and non-profits organization. 
-
+    Benevity will have a much broader ecosystem for the grant management. It will increase their bottom-line without spending a lot of money on the development. Primary because spark product already has all the core functionalities and it needs to enhance it to support other process. It will benefit both corporations and non-profits organization. 
+---
 * What technologies would this additional product or service utilize?
 
-    Benevity can continue to provide their platform as SaaS. There is no need for any major changes to do that. But, They can work on integration with other HR plarform such as SAP's SuccessFactors HCM suite and Oracle Fusion HCM cloud.
-
+    Benevity can continue to provide their platform as SaaS. No need to change the current delivery strategy. But They can work on integration with other HR platform such as SAP's SuccessFactors HCM suite and Oracle Fusion HCM cloud.
+---
 * Why are these technologies appropriate for your solution?
 
     Benevity is already using appropriate technology. Cloud and API need to be used for all the integration.
-
 ```
-
-### 4. Write the case study
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-
-### 5. Upload your case study to your git repository
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
-
----
-
-## Resources
-
-### FinTech Companies and Domains
-
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
-
-* [Canada has a rosy future in fintech, but obstacles remain, expert says](https://www.cpacanada.ca/en/news/innovation/2019-11-04-canada-fintech-trends)
-
-* [Canadian fintech adoption rate hits 50 per cent, but still trails global peers: EY](https://business.financialpost.com/technology/canadian-fintech-adoption-rate-hits-50-per-cent-but-still-trails-global-peers-ey)
-
-* [The 2019 Canadian fintech market map](https://www.pwc.com/ca/en/industries/technology/canadian-fintech-market-map.html)
-
-* [Canadian Fintech Industry Set to Witness Strong Grow: Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
-
-* [Introducing the FinTech Landscape in Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
-
-* [Status of the Canadian FinTech Landscape](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
-
-* [The Canadian Fintech Ecosystem Map](https://ecosystem.formfintech.com/)
-
-* [World FinTech Report 2019, Capgemini](https://fintechworldreport.com/)
-
-* [The Most Innovative FinTech Companies in 2019, Forbes](https://www.forbes.com/fintech/2019/#5264de5a2b4c)
-
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
-
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stack share](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-* [Angelist](https://angel.co/finance-technology)
-
----
-
-## Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
----
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
