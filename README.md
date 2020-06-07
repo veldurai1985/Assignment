@@ -14,7 +14,7 @@
 ---
 * Who are the founders of the company?
 
-    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business with iStockphoto, a successful venture that was eventually sold to Getty Images.
+    The company was started by Bryan de Lottinville. He currently serves as the CEO of the company. Bryan was a successful finance lawyer before he ventured into an entrepreneurial, web-based technology business with iStockphoto, a successful company that was eventually sold.
 
     * [Source - Calgaryherald](https://calgaryherald.com/business/local-business/around-town-june-4-benevity)
 ---
@@ -111,11 +111,15 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+    The core metics for grant management platforms are employee participation rate, user engagement or ease of use of the product, grant or donation collected for each campaign.
 
+    In all those metrics, Benevity is doing well. For example - When Splunk implemented Benevity product Spark, The particaipation rate of the employees was doubled. Similar story echoed for other companies too.  
+
+    * [Source - Splunk](https://insights.benevity.com/case-studies/how-paypal-engaged-more-employees-worldwide)
 
 * How is your company performing relative to competitors in the same domain?
 
-    Benevity is a relatively a niche player compared other major player such as Blackbaud. Benevity focus on corporate giving program and they are able to expand the prodcuct offering by strategic acquistion (GrantStream in 2015) and organic internal development. 
+    Benevity is a a niche player compared other major player such as Blackbaud. Benevity focus on corporate giving program and they are able to offer entire the grant pratform by strategic acquistion (GrantStream in 2015) and organic internal development. They are considered as one of the major players in corporate giving platform. 
 
 ## Recommendations
 
@@ -124,16 +128,20 @@
     Benvity soley focus on corporate giving platforms. Benevity can expand to other areas of grant management such as Government, Art & Culture, Research funding, Healthcare and Scholarship providers. Though, Benevity platform has millions of charities, it is viewed from corporation prespective not the other way around. They can leverage these platforms to act as a bridge between corporation and non-profits. 
 
     In fact, Benevity created Benevity one wold in 2016 that will allow coroporation to give donation for an internation disaster. In 2018, Benevity one platform processed closed to $ 800k donation. 
+
+    * [Source - Benevity One World](https://www.benevity.com/press-releases/benevity-launches-oneworld-the-only-complete-international-giving-and-volunteering-solution)
 --- 
 * Why do you think that offering this product or service would benefit the company?
 
-    Benevity will have a much broder ecosystem for the grant management. It also provides more options for the corportation to fund some of these instituion. 
+    Benevity will have a much broder ecosystem for the grant management. It will increase their bottomline without spending a lot of money on the development. Primarly because spark product already have all the functionlities and Benevity needs to add few more funtionalities. Also, It will benefit both corporations and non-profits organization. 
 
 * What technologies would this additional product or service utilize?
 
-
+    Benevity can continue to provide their platform as SaaS. There is no need for any major changes to do that. But, They can work on integration with other HR plarform such as SAP's SuccessFactors HCM suite and Oracle Fusion HCM cloud.
 
 * Why are these technologies appropriate for your solution?
+
+    Benevity is already using appropriate technology. Cloud and API need to be used for all the integration.
 
 ```
 
