@@ -96,7 +96,7 @@
     3. JK Group 
     4. Sponsorium 
 
-    Of all of the companies mentioned, Blackbaud is a major player in this segment. It is listed in NASDAQ exchange. Back in 2014, Blackbaud  acquired MicroEdge for $160. Microedge is one of the local competitors for Benevity. 
+    Of all of the companies mentioned, Blackbaud is a major player in this segment. It is listed in NASDAQ exchange. Back in 2014, Blackbaud  acquired MicroEdge for $160. Microedge was one of the local competitors for Benevity. 
 
     * [Source - Competitors](https://www.businesswire.com/news/home/20140902005729/en/Blackbaud-Acquire-MicroEdge)
 ---
@@ -106,7 +106,7 @@
 
     > **“Without a sense of purpose, no company, either public or private, can achieve its full potential"**  - Larry Fink, CEO of Blackrock 
 
-    One of the huge shifts in the corporation is the preference of the employees to work for a company that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was the second on the list of career goal. 
+    One of the huge shifts in the corporation is the preference of the employees to work for a company that have a social and environmental purpose. In 2014 IBM institute study, Desire to work for corporation that supports social and environment was second on the list of career goal. 
 
     It is important to note that Benevity is the first certified B Corps in Canada. The company has over 2 million users around the world and it processed over 2 billion dollars in donation and 10 million hours of volunteering time to 150,000 charities. Apart from that it holds almost 2 million charities and platform is available in 17 languages. 
     
@@ -141,13 +141,14 @@
 --- 
 * Why do you think that offering this product or service would benefit the company?
 
-    Benevity will have a much broader ecosystem for the grant management. It will increase their bottom-line without spending a lot of money on the development. Primary because spark product already has all the core functionalities and it needs to enhance it to support other process. It will benefit both corporations and non-profits organization. 
+    Benevity will have a much broader ecosystem for the grant management. It will increase their bottom-line without spending a lot of money on the development. Primary because spark product already has all the core functionalities and it needs to enhance it to support other process. Also, It will benefit both corporations and non-profits organization. 
 ---
 * What technologies would this additional product or service utilize?
 
-    Benevity can continue to provide their platform as SaaS. No need to change the current delivery strategy. But They can work on integration with other HR platform such as SAP's SuccessFactors HCM suite and Oracle Fusion HCM cloud.
+    Benevity can continue to offer their platform as SaaS. No need to change the current delivery strategy. But They can work on integration with other HR platform such as SAP's SuccessFactors HCM suite and Oracle Fusion HCM cloud.
 ---
 * Why are these technologies appropriate for your solution?
 
     Benevity is already using appropriate technology. Cloud and API need to be used for all the integration.
-```
+---
+---
