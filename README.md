@@ -96,7 +96,7 @@
     3. JK Group 
     4. Sponsorium 
 
-    Of all of the companies mentioned, Blackbaud is a major player in this segment. It is listed in NASDAQ exchange. Back in 2014, Blackbaud  acquired MicroEdge for $160. Microedge was one of the local competitors for Benevity. 
+    Of all of the companies mentioned, Blackbaud is a major player in this segment. It is listed in NASDAQ exchange. Back in 2014, Blackbaud  acquired MicroEdge for $160 million. Microedge was one of the local competitors for Benevity. 
 
     * [Source - Competitors](https://www.businesswire.com/news/home/20140902005729/en/Blackbaud-Acquire-MicroEdge)
 ---
